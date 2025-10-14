@@ -1,0 +1,3 @@
+This is the first test file for encryption.
+It contains some sample text to demonstrate the multi-file encryption functionality.
+This file will be processed along with other files in the folder.

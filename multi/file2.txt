@@ -1,0 +1,4 @@
+Second test file with different content.
+This file has multiple lines of text.
+It's designed to test the parallel processing capabilities.
+Each file will be encrypted individually.

@@ -1,0 +1,3 @@
+Fourth test file with unique content.
+This file contains different data to ensure proper encryption.
+The multi-file system should handle this efficiently.

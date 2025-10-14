@@ -1,0 +1,4 @@
+Fifth and final test file.
+This completes our set of 5 test files.
+Each file has different content to test encryption thoroughly.
+The system should process all files in the multifile folder.

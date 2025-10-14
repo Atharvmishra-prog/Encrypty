@@ -1,0 +1,3 @@
+Third file for testing purposes.
+This demonstrates how the system handles multiple files simultaneously.
+The encryption process will work on all files in parallel.
