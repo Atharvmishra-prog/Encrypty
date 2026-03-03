@@ -1,1 +1,1 @@
-# Encrypty
+# Encrypt
